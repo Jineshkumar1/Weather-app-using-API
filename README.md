@@ -1,6 +1,6 @@
 # J's Weather App
 
-Wanted to learn how API being implemented and fetch Get requests are made. So here is my attempt to learn more. 
+Wanted to learn how API being implemented and Fetch / Get requests are made. So here is my attempt to learn more. 
 
 ## Simple Weather App using HTML , CSS , and JavaScript  
 
