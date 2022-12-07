@@ -1,4 +1,7 @@
 # J's Weather App
+
+Wanted to learn how API being implemented and fetch Get requests are made. So here is my attempt to learn more. 
+
 ## Simple Weather App using HTML , CSS , and JavaScript  
 
 Used Weather API by [API-Ninjas FREE Weather](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) 
