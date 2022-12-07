@@ -4,11 +4,16 @@ Used Weather by API-Ninjas FREE Weather https://rapidapi.com/apininjas/api/weath
 
 Data Fetched using the API : 
 
-cloud_pct    Temperature  
-Feels Like   Humidity  
-Min_temp     Max_temp  
-Wind_speed   Wind_degrees
-Sunrise      Sunset
+Cloud_pct  
+Temperature  
+Feels Like  
+Humidity  
+Min_temp  
+Max_temp  
+Wind_speed   
+Wind_degrees
+Sunrise  
+Sunset
 
 
 J's Weather App
