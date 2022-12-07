@@ -20,7 +20,7 @@ Sunset
 
 ![image](https://user-images.githubusercontent.com/85137150/206101479-ba48e408-0236-486f-af7a-de31935ed797.png)
 
-Free to use any part of the files on this repository. 
+Free to use any part of the files from this repo. Happy Learning ! 
 
 Follow for more. 
 
