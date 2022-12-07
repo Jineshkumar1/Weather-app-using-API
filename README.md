@@ -1,5 +1,7 @@
-Simple Weather App using HTML , CSS , and JavaScript 
-Used Weather by API-Ninjas FREE Weather https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
+Simple Weather App using HTML , CSS , and JavaScript  
+
+Used Weather by API-Ninjas FREE Weather https://rapidapi.com/apininjas/api/weather-by-api-ninjas/  
+
 Data Fetched using the API : 
 
 cloud_pct
