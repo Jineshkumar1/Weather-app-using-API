@@ -15,7 +15,7 @@ Humidity
 Min_temp  
 Max_temp  
 Wind_speed   
-Wind_degrees
+Wind_degrees    
 Sunrise    
 Sunset
 
