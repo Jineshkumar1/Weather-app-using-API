@@ -16,7 +16,7 @@ Min_temp
 Max_temp  
 Wind_speed   
 Wind_degrees
-Sunrise  
+Sunrise    
 Sunset
 
 ![image](https://user-images.githubusercontent.com/85137150/206104592-3662b960-16e4-4c56-a972-a56ee06494c1.png)
