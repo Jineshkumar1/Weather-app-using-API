@@ -1,4 +1,5 @@
-Simple Weather App using HTML , CSS , and JavaScript  
+# J's Weather App
+## Simple Weather App using HTML , CSS , and JavaScript  
 
 Used Weather API by [API-Ninjas FREE Weather](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) 
 
@@ -16,7 +17,7 @@ Sunrise
 Sunset
 
 
-J's Weather App
+
 ![image](https://user-images.githubusercontent.com/85137150/206101479-ba48e408-0236-486f-af7a-de31935ed797.png)
 
 Free to use any part of the files on this repository. 
@@ -24,5 +25,5 @@ Free to use any part of the files on this repository.
 Follow for more. 
 
 Thanks   
-Jinesh 
+# Jinesh 
 
